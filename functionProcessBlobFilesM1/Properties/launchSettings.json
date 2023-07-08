@@ -2,7 +2,7 @@
   "profiles": {
     "functionProcessBlobFilesM1": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7201",
+      "commandLineArgs": "--port 7035",
       "launchBrowser": false
     }
   }
