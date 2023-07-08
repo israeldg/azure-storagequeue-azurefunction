@@ -14,9 +14,15 @@ namespace Company.Function
         }
 
         [Function("QueueProcessFilesM1")]
-        public void Run([QueueTrigger("wgapistoragequeue", Connection = "wgapistoragepoc")] string myQueueItem)
+        [QueueOutput("output-queue", Connection = "wgapistoragepoc")]
+        public string[] Run([QueueTrigger("wgapistoragequeue", Connection = "wgapistoragepoc")] string myQueueItem)
         {
-            _logger.LogInformation($"C# Queue trigger function processed: {myQueueItem}");
+            _logger.LogInformation($"C# Queue trigger function processed: {myQueueItem}");            
+            // Use a string array to return more than one message.
+            string[] messages = { myQueueItem };
+
+            // Queue Output messages
+            return messages;
         }
     }
 }
