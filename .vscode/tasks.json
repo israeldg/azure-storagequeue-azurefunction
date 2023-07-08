@@ -40,7 +40,6 @@
 			"args": [
 				"clean",
 				"--configuration",
-				
 				"Release",
 				"/property:GenerateFullPaths=true",
 				"/consoleloggerparameters:NoSummary"
@@ -72,7 +71,7 @@
 			"type": "func",
 			"dependsOn": "build (functions)",
 			"options": {
-				"cwd": "${workspaceFolder}/functionProcessBlobFiles/bin/Debug/net7.0"
+				"cwd": "${workspaceFolder}/functionProcessBlobFilesM1/bin/Debug/net7.0"
 			},
 			"command": "host start",
 			"isBackground": true,
