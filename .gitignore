@@ -192,3 +192,5 @@ consoleDefaultAzureIdentity/bin/Debug/net7.0/Microsoft.IdentityModel.Abstraction
 consoleDefaultAzureIdentity/bin/Debug/net7.0/System.Memory.Data.dll
 consoleDefaultAzureIdentity/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
 consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.csproj.CopyComplete
+consoleDefaultAzureIdentity/bin/Debug/net7.0/consoleDefaultAzureIdentity
+consoleDefaultAzureIdentity/obj/Debug/net7.0/apphost
