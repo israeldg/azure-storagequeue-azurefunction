@@ -158,3 +158,37 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+consoleDefaultAzureIdentity/obj/consoleDefaultAzureIdentity.csproj.nuget.dgspec.json
+consoleDefaultAzureIdentity/obj/consoleDefaultAzureIdentity.csproj.nuget.g.props
+consoleDefaultAzureIdentity/obj/consoleDefaultAzureIdentity.csproj.nuget.g.targets
+consoleDefaultAzureIdentity/obj/project.assets.json
+consoleDefaultAzureIdentity/obj/project.nuget.cache
+consoleDefaultAzureIdentity/bin/Debug/net7.0/consoleDefaultAzureIdentity.deps.json
+consoleDefaultAzureIdentity/bin/Debug/net7.0/consoleDefaultAzureIdentity.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/consoleDefaultAzureIdentity.exe
+consoleDefaultAzureIdentity/bin/Debug/net7.0/consoleDefaultAzureIdentity.pdb
+consoleDefaultAzureIdentity/bin/Debug/net7.0/consoleDefaultAzureIdentity.runtimeconfig.json
+consoleDefaultAzureIdentity/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+consoleDefaultAzureIdentity/obj/Debug/net7.0/apphost.exe
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.AssemblyInfo.cs
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.AssemblyInfoInputs.cache
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.assets.cache
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.csproj.AssemblyReference.cache
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.csproj.CoreCompileInputs.cache
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.csproj.FileListAbsolute.txt
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.dll
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.GeneratedMSBuildEditorConfig.editorconfig
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.genruntimeconfig.cache
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.GlobalUsings.g.cs
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.pdb
+consoleDefaultAzureIdentity/obj/Debug/net7.0/ref/consoleDefaultAzureIdentity.dll
+consoleDefaultAzureIdentity/obj/Debug/net7.0/refint/consoleDefaultAzureIdentity.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/Azure.Core.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/Azure.Identity.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/System.Memory.Data.dll
+consoleDefaultAzureIdentity/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+consoleDefaultAzureIdentity/obj/Debug/net7.0/consoleDefaultAzureIdentity.csproj.CopyComplete
